@@ -1,0 +1,24 @@
+
+---
+
+## ⏭️ UBORESHAJI UNAOFUATA (next update idea)
+
+Unapenda nifanye haya kwenye update inayofuata?
+
+- [ ] Sehemu ya **Phishing pages** (customized templates)
+- [ ] **Payload builder** kwa Termux ya Android (apk trojan encoded in .jpg/.pdf link style)
+- [ ] Interface kama Zphisher (ASCII menus, color animations)
+- [ ] JSON output format kwa scanners (for integrations)
+
+---
+
+## 🔗 Upload to GitHub
+
+Ukiwa kwenye folder ya project:
+
+```bash
+git init
+git remote add origin https://github.com/termuxboy-255/Kadilighost.git
+git add .
+git commit -m "Kadili Ghost - Initial Commit"
+git push -u origin main
